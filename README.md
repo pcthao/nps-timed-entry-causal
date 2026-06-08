@@ -1,2 +1,2 @@
-# Did Timed Entry Thin the Crowds in National Parks or Just Move Them?
+# Did Timed Entry Thin the Crowds at Rocky Mountain NP or Just Move Them?
 
