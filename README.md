@@ -1,1 +1,2 @@
-# Did Timed Entry Thin the Crowds or Just Move Them?
+# Did Timed Entry Thin the Crowds in National Parks or Just Move Them?
+
