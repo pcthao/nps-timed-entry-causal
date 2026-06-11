@@ -74,7 +74,7 @@ For park managers, timed entry may help reduce absolute visitor pressure, but ad
 
 ```text
 nps-timed-entry-causal/
-│
+├── app.py 
 ├── data/
 │   ├── raw/
 │   │   ├── Main_Data.xls
