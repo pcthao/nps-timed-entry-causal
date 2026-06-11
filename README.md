@@ -35,7 +35,7 @@ A synthetic version of RMNP was constructed using a weighted combination of comp
 
 A synthetic RMNP was created using comparable National Parks without major reservation systems.
 
-![Synthetic Control Results](figures/synthetic_control_results.png)
+![Synthetic Control Results](figures/actual_vs_synth_peak_season.png)
 
 | Metric | Result |
 |---|---:|
