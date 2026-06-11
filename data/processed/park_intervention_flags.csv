@@ -1,0 +1,63 @@
+park_name,park_code,intervention_type,start_year,timed_entry,donor_eligible
+Pinnacles National Park,PINN,none,,0,1
+Dry Tortugas National Park,DRTO,none,,0,1
+Rocky Mountain National Park,ROMO,timed_entry,2020.0,1,0
+Congaree National Park,CONG,none,,0,1
+Badlands National Park,BADL,none,,0,1
+Sequoia & Kings Canyon National Park,KICA,none,,0,1
+Virgin Islands National Park,VIIS,none,,0,1
+Acadia National Park,ACAD,vehicle_reservation,2021.0,1,0
+Haleakalā National Park,HALE,vehicle_reservation,2017.0,1,0
+Great Sand Dunes National Park,GRSA,none,,0,1
+Everglades National Park,EVER,none,,0,1
+Wind Cave National Park,WICA,none,,0,1
+Great Basin National Park,GRBA,none,,0,1
+Voyageurs National Park,VOYA,none,,0,1
+Kobuk Valley National Park,KOVA,none,,0,1
+Gateway Arch National Park,JEFF,none,,0,1
+Yellowstone National Park,YELL,none,,0,1
+Black Canyon of the Gunnison National Park,BLCA,none,,0,1
+Wrangell-St. Elias National Park,WRST,none,,0,1
+Olympic National Park,OLYM,none,,0,1
+North Cascades National Park,NOCA,none,,0,1
+Joshua Tree National Park,JOTR,none,,0,1
+Petrified Forest National Park,PEFO,none,,0,1
+Big Bend National Park,BIBE,none,,0,1
+Canyonlands National Park,CANY,none,,0,1
+Hot Springs National Park,HOSP,none,,0,1
+New River Gorge National Park,NEPE,none,,0,1
+Guadalupe Mountains National Park,GUMO,none,,0,1
+White Sands National Park,WHSA,none,,0,1
+Gates of the Arctic National Park,GAAR,none,,0,1
+Great Smoky Mountains National Park,GRSM,none,,0,1
+Katmai National Park,KATM,none,,0,1
+Theodore Roosevelt National Park,THRO,none,,0,1
+Denali National Park,DENA,none,,0,1
+Mount Rainier National Park,MORA,timed_entry,2024.0,1,0
+Crater Lake National Park,CRLA,none,,0,1
+Mammoth Cave National Park,MACA,none,,0,1
+Grand Canyon National Park,GRCA,none,,0,1
+Indiana Dunes National Park,INDU,none,,0,1
+Bryce Canyon National Park,BRCA,none,,0,1
+Cuyahoga Valley National Park,CUVA,none,,0,1
+Kenai Fjords National Park,KEFJ,none,,0,1
+Redwood National Park,REDW,none,,0,1
+Mesa Verde National Park,MEVE,none,,0,1
+Yosemite National Park,YOSE,reservation_system,2020.0,1,0
+Hawaiʻi Volcanoes National Park,HAVO,none,,0,1
+Death Valley National Park,DEVA,none,,0,1
+Saguaro National Park,SAGU,none,,0,1
+National Park of American Samoa,NPSA,none,,0,1
+Grand Teton National Park,GRTE,none,,0,1
+Zion National Park,ZION,none,,0,1
+Capitol Reef National Park,CARE,none,,0,1
+Biscayne National Park,BISC,none,,0,1
+Carlsbad Caverns National Park,CAVE,none,,0,1
+Lassen Volcanic National Park,LAVO,none,,0,1
+Glacier Bay National Park,GLBA,none,,0,1
+Shenandoah National Park,SHEN,none,,0,1
+Arches National Park,ARCH,timed_entry,2022.0,1,0
+Isle Royale National Park,ISRO,none,,0,1
+Channel Islands National Park,CHIS,none,,0,1
+Lake Clark National Park,LACL,none,,0,1
+Glacier National Park,GLAC,vehicle_reservation,2021.0,1,0

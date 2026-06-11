@@ -1,0 +1,63 @@
+park_name,park_code,intervention_type,start_year,timed_entry,donor_eligible,broad_donor,atypical_access,avg_annual_visits_2015_2019,low_visitation,comparable_donor,nearest_neighbor_donor
+Pinnacles National Park,PINN,none,,0,1,1,0,210959.6,0,1,0
+Dry Tortugas National Park,DRTO,none,,0,1,1,1,66962.8,1,0,0
+Rocky Mountain National Park,ROMO,timed_entry,2020.0,1,0,0,0,4474252.4,0,0,0
+Congaree National Park,CONG,none,,0,1,1,0,139265.0,0,1,0
+Badlands National Park,BADL,none,,0,1,1,0,1003976.4,0,1,0
+Sequoia & Kings Canyon National Park,KICA,none,,0,1,1,0,619930.0,0,1,0
+Virgin Islands National Park,VIIS,none,,0,1,1,1,279961.6,0,0,0
+Acadia National Park,ACAD,vehicle_reservation,2021.0,1,0,0,0,3319741.8,0,0,1
+Haleakalā National Park,HALE,vehicle_reservation,2017.0,1,0,0,0,1126239.6,0,0,0
+Great Sand Dunes National Park,GRSA,none,,0,1,1,0,429041.4,0,1,0
+Everglades National Park,EVER,none,,0,1,1,0,948463.0,0,1,0
+Wind Cave National Park,WICA,none,,0,1,1,0,624249.2,0,1,0
+Great Basin National Park,GRBA,none,,0,1,1,0,142778.6,0,1,0
+Voyageurs National Park,VOYA,none,,0,1,1,0,238021.0,0,1,0
+Kobuk Valley National Park,KOVA,none,,0,1,1,1,12340.6,1,0,0
+Gateway Arch National Park,JEFF,none,,0,1,1,0,1688037.6,0,1,1
+Yellowstone National Park,YELL,none,,0,1,1,0,4121339.8,0,1,1
+Black Canyon of the Gunnison National Park,BLCA,none,,0,1,1,0,299221.4,0,1,0
+Wrangell-St. Elias National Park,WRST,none,,0,1,1,1,76334.6,1,0,0
+Olympic National Park,OLYM,none,,0,1,1,0,3281247.8,0,1,1
+North Cascades National Park,NOCA,none,,0,1,1,0,29588.4,1,0,0
+Joshua Tree National Park,JOTR,none,,0,1,1,0,2663118.0,0,1,0
+Petrified Forest National Park,PEFO,none,,0,1,1,0,670553.2,0,1,0
+Big Bend National Park,BIBE,none,,0,1,1,0,422847.2,0,1,0
+Canyonlands National Park,CANY,none,,0,1,1,0,725308.2,0,1,0
+Hot Springs National Park,HOSP,none,,0,1,1,0,1499623.6,0,1,0
+New River Gorge National Park,NEPE,none,,0,1,1,0,245402.4,0,1,0
+Guadalupe Mountains National Park,GUMO,none,,0,1,1,0,187562.2,0,1,0
+White Sands National Park,WHSA,none,,0,1,1,0,575512.0,0,1,0
+Gates of the Arctic National Park,GAAR,none,,0,1,1,1,10415.6,1,0,0
+Great Smoky Mountains National Park,GRSM,none,,0,1,1,0,11466659.2,0,1,0
+Katmai National Park,KATM,none,,0,1,1,1,47087.8,1,0,0
+Theodore Roosevelt National Park,THRO,none,,0,1,1,0,696592.6,0,1,0
+Denali National Park,DENA,none,,0,1,1,1,597358.0,0,0,0
+Mount Rainier National Park,MORA,timed_entry,2024.0,1,0,0,0,1406024.6,0,0,1
+Crater Lake National Park,CRLA,none,,0,1,1,0,701595.2,0,1,0
+Mammoth Cave National Park,MACA,none,,0,1,1,0,565211.6,0,1,0
+Grand Canyon National Park,GRCA,none,,0,1,1,0,6019938.2,0,1,1
+Indiana Dunes National Park,INDU,none,,0,1,1,0,1877450.6,0,1,1
+Bryce Canyon National Park,BRCA,none,,0,1,1,0,2391396.0,0,1,1
+Cuyahoga Valley National Park,CUVA,none,,0,1,1,0,2253786.2,0,1,1
+Kenai Fjords National Park,KEFJ,none,,0,1,1,1,325005.2,0,0,0
+Redwood National Park,REDW,none,,0,1,1,0,499139.6,0,1,0
+Mesa Verde National Park,MEVE,none,,0,1,1,0,572852.6,0,1,0
+Yosemite National Park,YOSE,reservation_system,2020.0,1,0,0,0,4389654.4,0,0,1
+Hawaiʻi Volcanoes National Park,HAVO,none,,0,1,1,0,1644441.8,0,1,0
+Death Valley National Park,DEVA,none,,0,1,1,0,1433111.6,0,1,0
+Saguaro National Park,SAGU,none,,0,1,1,0,903252.6,0,1,0
+National Park of American Samoa,NPSA,none,,0,1,1,1,40176.8,1,0,0
+Grand Teton National Park,GRTE,none,,0,1,1,0,3326752.4,0,1,1
+Zion National Park,ZION,none,,0,1,1,0,4251417.2,0,1,1
+Capitol Reef National Park,CARE,none,,0,1,1,0,1122048.8,0,1,0
+Biscayne National Park,BISC,none,,0,1,1,0,529521.8,0,1,0
+Carlsbad Caverns National Park,CAVE,none,,0,1,1,0,467824.4,0,1,0
+Lassen Volcanic National Park,LAVO,none,,0,1,1,0,505578.0,0,1,0
+Glacier Bay National Park,GLBA,none,,0,1,1,1,577716.6,0,0,0
+Shenandoah National Park,SHEN,none,,0,1,1,0,1381695.0,0,1,1
+Arches National Park,ARCH,timed_entry,2022.0,1,0,0,0,1569450.4,0,0,1
+Isle Royale National Park,ISRO,none,,0,1,1,1,24810.8,1,0,0
+Channel Islands National Park,CHIS,none,,0,1,1,1,369838.0,0,0,0
+Lake Clark National Park,LACL,none,,0,1,1,1,18662.2,1,0,0
+Glacier National Park,GLAC,vehicle_reservation,2021.0,1,0,0,0,2926679.4,0,0,1
