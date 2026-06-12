@@ -70,6 +70,14 @@ While peak-season visitation declined by 13.4%, annual visitation declined by a 
 For park managers, timed entry may help reduce absolute visitor pressure, but additional strategies may be needed to encourage visitation outside peak periods.
 
 --- 
+
+## Interactive Dashboard
+
+Explore the Streamlit dashboard:
+
+[Launch Dashboard](your-streamlit-link)
+
+--- 
 ### Project Structure
 
 ```text
