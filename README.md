@@ -75,9 +75,10 @@ For park managers, timed entry may help reduce absolute visitor pressure, but ad
 
 Explore the Streamlit dashboard:
 
-[Launch Dashboard]([https://nps-timed-entry-causal.streamlit.app/])
+[Launch Dashboard](https://nps-timed-entry-causal.streamlit.app/)
 
 --- 
+
 ### Project Structure
 
 ```text
